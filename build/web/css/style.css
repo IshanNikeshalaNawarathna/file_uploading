@@ -1,0 +1,16 @@
+*{
+    font-family:cursive;
+}
+.div{
+    margin-bottom:10px;
+}
+.body{
+margin-left:40%;
+margin-top: 10%;
+}
+.error{
+    color: red;
+}
+.text{
+    color:red;
+}
